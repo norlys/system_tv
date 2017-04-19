@@ -1,4 +1,4 @@
-#System informacji TV
+# System informacji TV
 dla produkcji NORLYS
-##Dział Magazyn
-###Części
+## Dział Magazyn
+### Części
